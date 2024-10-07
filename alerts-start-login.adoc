@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-login.html 
+keywords: bluexp login, log in, ontap, netapp 
+summary: Para comenzar a usar las alertas de BlueXP , acceda al servicio de BlueXP . 
+---
+= Acceder a alertas de BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp BlueXP  se utiliza para iniciar sesión en el servicio de alertas de BlueXP .
+
+Para iniciar sesión en BlueXP , puede usar sus credenciales del sitio de soporte de NetApp o puede registrarse para obtener un inicio de sesión en el cloud de NetApp con su correo electrónico y una contraseña. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Obtenga más información sobre cómo iniciar sesión"^].
+
+.Pasos
+. Abra un navegador web y vaya a la https://console.bluexp.netapp.com/["Consola BlueXP"^].
++
+Aparece la página de inicio de sesión de NetApp BlueXP.
+
+. Inicie sesión en BlueXP.
+. En la navegación izquierda de BlueXP , selecciona *Monitoreo* > *Alertas*.
++
+Aparece la página de la lista Alertas.
+
++
+image:alerts-dashboard.png["La página de lista de alertas de BlueXP "]
+
+

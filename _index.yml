@@ -1,0 +1,38 @@
+---
+indexpage:
+  title: Documentación sobre alertas de BlueXP 
+  summary: Las alertas de BlueXP  son un servicio que le permite ver problemas o riesgos
+    potenciales en su entorno de NetApp ONTAP. Con el servicio, puede obtener detalles
+    de alerta y ver información del clúster mediante NetApp System Manager.
+  keywords: bluexp, ONTAP, alerts, system manager
+  lead: Las alertas de BlueXP  son un servicio que le permite ver problemas o riesgos
+    potenciales en el entorno de NetApp ONTAP relacionados con la capacidad, el rendimiento,
+    la protección, la disponibilidad y la seguridad. Con el servicio, puede obtener
+    detalles de alerta y ver información del clúster vinculada a NetApp System Manager.
+  tiles:
+  - title: Manos a la obra
+    links:
+    - title: Más información sobre las alertas de BlueXP 
+      url: "/concept-alerts.html"
+    - title: Novedades de las alertas de BlueXP 
+      url: "/whats-new.html"
+    - title: Requisitos previos
+      url: "/alerts-start-prerequisites.html"
+    - title: Inicio rápido
+      url: "/alerts-start-quick-start.html"
+    - title: Configure las alertas BlueXP 
+      url: "/alerts-start-setup.html"
+    - title: PREGUNTAS FRECUENTES
+      url: "/alerts-faq.html"
+  - title: Utilice las alertas BlueXP 
+    links:
+    - title: Utilice la información general de alertas de BlueXP 
+      url: "/alerts-use-overview.html"
+    - title: Ver el estado de la carga de trabajo mediante la página de la lista Alerts
+      url: "/alerts-use-dashboard.html"
+  - title: Blogs y comunidad
+    links:
+    - title: Comunidad de NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Seminarios web sobre el cloud
+      url: https://bluexp.netapp.com/events
