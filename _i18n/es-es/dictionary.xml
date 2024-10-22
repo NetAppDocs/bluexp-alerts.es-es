@@ -242,8 +242,6 @@
   <block id="82cf93c6b22e730b302286dee304e8cc" category="paragraph">La versión completa de alertas de BlueXP  se puede utilizar con una licencia de NetApp ONTAP.</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">Licencia</block>
   <block id="1b083639d38de1b116aea6c5558968ec" category="paragraph">El servicio de alertas de BlueXP  requiere una licencia de NetApp ONTAP 9.10 o superior.</block>
-  <block id="e907b41f5f3d7332bee5a43fbbf78a08" category="inline-link-macro">Configurar la licencia</block>
-  <block id="d69945d07ffe69d68b278fa3f6ee11ac" category="paragraph">El servicio solo se puede poner en marcha en el modo estándar (público) de BlueXP . Para obtener más información, consulte <block ref="271bc4c83b3d27b2a7fc60eb23418118" category="inline-link-macro-rx"></block>.</block>
   <block id="55a90d444e30ddc01cd8a8da27cd9018" category="section-title">Cómo funcionan las alertas de BlueXP </block>
   <block id="3e552726fea4952e3fd397f2cbf69243" category="paragraph">El servicio de alertas de BlueXP  es un componente central de BlueXP . El servicio de alertas de BlueXP  supervisa los clústeres de ONTAP y recibe datos de alertas de ONTAP.</block>
   <block id="78097856f6f945c9619179338ebbf597" category="paragraph">Las alertas de BlueXP  solo están disponibles en el entorno SaaS de BlueXP . No está disponible en una interfaz de usuario de conector local.</block>
@@ -299,4 +297,5 @@
   <block id="864130dd293829108709c2327b91d445" category="paragraph">Las alertas de BlueXP  son un servicio que le permite ver problemas o riesgos potenciales en sus entornos de ONTAP locales de NetApp mediante el conector BlueXP  estándar. Con el servicio, puede obtener información detallada mediante ONTAP System Manager.</block>
   <block id="a138b80b6963a03eb4d692dbdc025e3e" category="sidebar">Las alertas de BlueXP  son un servicio que le permite ver problemas o riesgos potenciales en el entorno de NetApp ONTAP relacionados con la capacidad, el rendimiento, la protección, la disponibilidad y la seguridad. Con el servicio, puede obtener detalles de alerta y ver información del clúster vinculada a ONTAP System Manager.</block>
   <block id="164a30a809f9f6485699e82e4c81d60c" category="sidebar">Las alertas de BlueXP  son un servicio que le permite ver problemas o riesgos potenciales en su entorno de NetApp ONTAP. Con el servicio, puede obtener detalles de alerta y ver información del clúster mediante ONTAP System Manager.</block>
+  <block id="83e69dcb76418af8dc10c3db810ded80" category="paragraph">El servicio solo se puede poner en marcha en el modo estándar (público) de BlueXP .</block>
 </blocks>

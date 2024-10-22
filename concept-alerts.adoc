@@ -54,7 +54,7 @@ El servicio de alertas de BlueXP  requiere una licencia de NetApp ONTAP 9.10 o 
 
 No necesita tener una licencia de prueba para este servicio.
 
-El servicio solo se puede poner en marcha en el modo estándar (público) de BlueXP . Para obtener más información, consulte link:alerts-start-licenses.html["Configurar la licencia"].
+El servicio solo se puede poner en marcha en el modo estándar (público) de BlueXP .
 
 
 
