@@ -12,8 +12,8 @@ summary: Con las alertas de BlueXP  puede ver el estado de las cargas de trabaj
 
 
 [role="lead"]
-Al utilizar alertas de BlueXP , puede ver problemas de almacenamiento y ver detalles en los enlaces directamente a System Manager.
+Al utilizar alertas de BlueXP , puede ver problemas de almacenamiento y ver detalles en los enlaces directamente a System Manager de ONTAP.
 
 * link:alerts-use-dashboard.html["Vea problemas de almacenamiento o riesgos potenciales en la página de lista Alertas"].
-* link:alerts-use-alerts.html["Ver detalles de alerta que están vinculados en System Manager"]
+* link:alerts-use-alerts.html["Ver detalles de alerta que están vinculados en ONTAP System Manager"]
 

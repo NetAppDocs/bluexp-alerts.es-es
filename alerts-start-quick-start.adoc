@@ -28,5 +28,5 @@ Después de configurar el servicio, esto es lo que puede hacer a continuación.
 
 [role="quick-margin-list"]
 * link:alerts-use-dashboard.html["Vea los problemas de almacenamiento y los riesgos potenciales en la página de lista Alertas"].
-* link:alerts-use-alerts.html["Consulte los detalles de alerta en System Manager"].
+* link:alerts-use-alerts.html["Vea detalles de alerta en ONTAP System Manager"].
 
