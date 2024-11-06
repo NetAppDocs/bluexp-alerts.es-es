@@ -17,7 +17,7 @@ sidebar:
     url: "/index.html"
   - title: Notas de la versión
     entries:
-    - title: Novedades de las alertas de BlueXP 
+    - title: Novedades
       url: "/whats-new.html"
   - title: Manos a la obra
     entries:
