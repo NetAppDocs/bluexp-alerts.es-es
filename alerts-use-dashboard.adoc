@@ -139,7 +139,7 @@ Alertas EMS:
 
 
 ====
-Para obtener más información sobre las alertas de ONTAP, consulte la documentación de ONTAP y las estadísticas de System Manager en https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["Información de System Manager sobre problemas de capacidad, seguridad y configuración"^].
+Para obtener información detallada sobre las alertas de ONTAP, consulte la documentación de ONTAP y las estadísticas sobre ONTAP System Manager en https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["System Manager de ONTAP ofrece información sobre problemas de capacidad, seguridad y configuración"^].
 
 
 

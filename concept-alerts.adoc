@@ -37,7 +37,7 @@ Las alertas de BlueXP  ofrecen los siguientes beneficios:
 
 * Obtenga alertas sobre su almacenamiento de ONTAP en los clústeres.
 * Vea alertas en la misma interfaz de usuario de BlueXP  que usa para otros servicios.
-* Acceda a alertas de clústeres de ONTAP: Inicie desde alertas de BlueXP  y consulte detalles en NetApp System Manager.
+* Acceda a alertas de clústeres de ONTAP: Inicie desde alertas de BlueXP  y consulte detalles en ONTAP System Manager.
 
 
 

@@ -16,7 +16,7 @@ Puede profundizar en los detalles de alertas y buscar recomendaciones.
 
 
 
-=== Ver los detalles del clúster vinculados a System Manager
+=== Ver los detalles del clúster vinculados a ONTAP System Manager
 
 Con las alertas de BlueXP , puede ver las alertas asociadas con su entorno de almacenamiento de ONTAP y obtener detalles vinculados a System Manager de ONTAP.
 
